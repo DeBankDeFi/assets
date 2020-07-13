@@ -262,7 +262,7 @@
             "payoutPeriod": 1
         },
         "staking": {
-            "minDelegation": 0
+            "minDelegation": 100
         }
     },
     {
@@ -365,11 +365,11 @@
     },
     {
         "id": "tz1V3yg82mcrPJbegqVCPn6bC8w1CSTRp3f8",
-        "name": "TezoShop",
-        "description": "TezoShop is PRO Tezos baker ",
-        "website": "https://tezoshop.art",
+        "name": "Staking Shop",
+        "description": "Staking for best PoS blockchains in one place",
+        "website": "https://www.stakingshop.live",
         "payout": {
-            "commission": 3,
+            "commission": 15,
             "payoutDelay": 6,
             "payoutPeriod": 1
         },
@@ -397,7 +397,7 @@
         "description": "An historical and trusted baker, from Italy with love.",
         "website": "https://stakingteam.com/",
         "payout": {
-            "commission": 0,
+            "commission": 9.9,
             "payoutDelay": 6,
             "payoutPeriod": 1
         },
